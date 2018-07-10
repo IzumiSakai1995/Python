@@ -1,0 +1,40 @@
+大纲：
+    1、python介绍、pycharm
+    2、Hello World & 变量
+    3、编码
+    4、数据类型
+        整形 int
+        长整形 long(python3中被取代)
+        浮点数 float
+        布尔值 bool
+        字符串 string()
+            字符串操作
+                字符串格式化输出
+                切片
+                方法
+            re
+            pythonchallenge
+        list & tuple
+        dict
+        set()
+    条件判断
+    5、循环
+        wihle:
+        for:
+
+    6、
+
+    7、函数
+        装饰器函数：
+        lamda
+    8、高阶函数：
+        map:
+        reduce:
+
+    9、迭代
+        列表生成式
+        迭代器
+        可迭代对象
+    10、生成器
+    11、模块
+    12、面向对象编程
